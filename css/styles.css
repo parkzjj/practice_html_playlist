@@ -1,0 +1,17 @@
+@import "status-bar.css";
+@import "center-bar.css";
+@import "button.css";
+@import "playlist-bar.css";
+
+html {
+    background-color: turquoise;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    width: 500px;
+    height: 130vh;
+    background-color: white;
+    padding: 50px 30px;
+}

@@ -1,0 +1,27 @@
+.button-bar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.button-bar button {
+    height: 60px;
+    font-size: 30px;
+    box-shadow: 2px 3px 0px 0px black;
+}
+
+.button-bar__play {
+    width: 200px;
+    border-radius: 15%;
+}
+
+.button-bar__heart {
+    width: 60px;
+    border-radius: 50%;
+}
+
+.button-bar__plus {
+    width: 60px;
+    border-radius: 50%;
+}
